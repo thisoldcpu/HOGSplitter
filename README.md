@@ -1,6 +1,6 @@
 # HOGSplitter: The Descent Archive Extractor
 
-<img width="1280" height="1392" alt="screenshot_9_18_26" src="https://github.com/user-attachments/assets/7d3b94f8-ef49-4bc1-80aa-71699205f238" />
+<img width="1280" height="1392" alt="screenshot-pcx" src="https://github.com/thisoldcpu/HOGSplitter/blob/main/images/screenshot-pcx.png" />
 
 HOGSplitter is a lean, purpose-built utility designed to crack open the `.HOG` archive files powering Parallax Software’s classic 6DOF shooters, *Descent* and *Descent II*. Whether you are a veteran Material Defender preserving original assets or a modern modder constructing custom mines, HOGSplitter gives you immediate, unhindered access to the raw materials of the PTMC.
 
