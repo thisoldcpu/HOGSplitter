@@ -22,15 +22,15 @@ Because `.HOG` files serve as the primary bulk containers for the game's data, c
 * ✅ **256** - Palette visualization
 * ✅ **BBM** - Bitmap image preview
 * ✅ **BIN** - `BITMAPS.BIN` texture browser
+* ✅ **BNK** - Bank header and instrument listing
 * ✅ **DIG** - Live preview of all stored samples
 * ✅ **FNT** - Glyph-sheet/font preview
 * ✅ **PCX** - PCX image preview
+* ✅ **POF** - Header, submodel, material, and geometry statistics.
 * ✅ **RAW** - WAV-wrapped audio samples
 * ✅ **SNG** - Structured/text preview
 * ✅ **TXB** - Decoded text viewing
 
 **In Development / Planned**
 * ❌ **HMP / HMQ** - Music metadata parsing *(Followed by playback, if the sequence can be cleanly converted for TMediaPlayer)*
-* ❌ **BNK** - Bank header and instrument listing
-* ❌ **POF** - Header, submodel, material, and geometry statistics. *(A wireframe viewer would be glorious, but this is prime territory for feature creep)*
 * ❌ **RDL** - Level metadata, including segment, vertex, object, and wall counts, plus textures used.
