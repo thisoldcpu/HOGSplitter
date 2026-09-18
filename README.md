@@ -25,11 +25,11 @@ Because `.HOG` files serve as the primary bulk containers for the game's data, c
 * ✅ **DIG** - Live preview of all stored samples
 * ✅ **FNT** - Glyph-sheet/font preview
 * ✅ **PCX** - PCX image preview
+* ✅ **RAW** - WAV-wrapped audio samples
 * ✅ **SNG** - Structured/text preview
 * ✅ **TXB** - Decoded text viewing
 
 **In Development / Planned**
-* ❌ **RAW** - WAV-wrapped audio playback *(Plumbing basically done)*
 * ❌ **HMP / HMQ** - Music metadata parsing *(Followed by playback, if the sequence can be cleanly converted for TMediaPlayer)*
 * ❌ **BNK** - Bank header and instrument listing
 * ❌ **POF** - Header, submodel, material, and geometry statistics. *(A wireframe viewer would be glorious, but this is prime territory for feature creep)*
