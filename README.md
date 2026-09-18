@@ -22,13 +22,14 @@ Because `.HOG` files serve as the primary bulk containers for the game's data, c
 * ✅ **BIN** - `BITMAPS.BIN` texture browser
 * ✅ **TXB** - Decoded text viewing
 * ✅ **BBM** - Bitmap image preview
+* ✅ **FNT** - Glyph-sheet/font preview
 * ✅ **PCX** - PCX image preview
 * ✅ **256** - Palette visualization
 
 **In Development / Planned**
 * ❌ **RAW** - WAV-wrapped audio playback *(Plumbing basically done)*
 * ❌ **SNG** - Structured/text preview *(Rather than generic text)*
-* ❌ **FNT** - Render a glyph-sheet/font preview
+
 * ❌ **HMP / HMQ** - Music metadata parsing *(Followed by playback, if the sequence can be cleanly converted for TMediaPlayer)*
 * ❌ **BNK** - Bank header and instrument listing
 * ❌ **DIG** - Structured inspection of actual fields *(Rather than a raw hex dump)*
