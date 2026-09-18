@@ -19,17 +19,16 @@ Because `.HOG` files serve as the primary bulk containers for the game's data, c
 ### Supported File Status
 
 **Fully Supported**
-* ✅ **BIN** - `BITMAPS.BIN` texture browser
-* ✅ **TXB** - Decoded text viewing
+* ✅ **256** - Palette visualization
 * ✅ **BBM** - Bitmap image preview
+* ✅ **BIN** - `BITMAPS.BIN` texture browser
 * ✅ **FNT** - Glyph-sheet/font preview
 * ✅ **PCX** - PCX image preview
-* ✅ **256** - Palette visualization
+* ✅ **SNG** - Structured/text preview
+* ✅ **TXB** - Decoded text viewing
 
 **In Development / Planned**
 * ❌ **RAW** - WAV-wrapped audio playback *(Plumbing basically done)*
-* ❌ **SNG** - Structured/text preview *(Rather than generic text)*
-
 * ❌ **HMP / HMQ** - Music metadata parsing *(Followed by playback, if the sequence can be cleanly converted for TMediaPlayer)*
 * ❌ **BNK** - Bank header and instrument listing
 * ❌ **DIG** - Structured inspection of actual fields *(Rather than a raw hex dump)*
