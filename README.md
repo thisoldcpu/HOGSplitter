@@ -22,7 +22,7 @@ Because `.HOG` files serve as the primary bulk containers for the game's data, c
 * ✅ **256** - Palette visualization
 * ✅ **BBM** - Bitmap image preview
 * ✅ **BIN** - `BITMAPS.BIN` texture browser
-* ✅ **BNK** - Bank header and instrument listing
+* ✅ **BNK** - FM instrument-bank browser with OPL parameter inspection and live audition
 * ✅ **DIG** - Live preview of all stored samples
 * ✅ **FNT** - Glyph-sheet/font preview
 * ✅ **PCX** - PCX image preview
